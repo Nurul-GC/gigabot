@@ -1,0 +1,37 @@
+class Headers:
+	headers_question = {
+		"Host": "giga.unitel.ao",
+		"Connection": "keep-alive",
+		"Cache-Control": "no-cache",
+		"Pragma": "no-cache",
+		"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36",
+		"apikey": "547324fb-004c-40f4-b0bd-30d034b91a27",
+		"Accept": "application/json, text/plain, */*",
+		"txId": "651acd04-31f1-4bdd-8f87-a8b05594e50f",
+		"If-Modified-Since": "Mon, 26 Jul 1997 05:00:00 GMT",
+		"device-Id": "a7dd1782-0e88-4a58-978f-aaa1aeeff0dd",
+		"token": "eyJhbGciOiJIUzUxMiJ9.eyJqc29uT2JqZWN0IjoiWmpNNE1tRTRNemN5WlRKak5UY3dNMkpsTlRFM1l6RTBaR1kwTUdJNU5qTXhaSGRLSzNCWlZHNUJWbkl4TWtkbWNtbDJUV1k0ZUdwbVp5dHRaWGRCY2pORGVESnBPRk5RWXpoWVNURjVPUzlNY2s4eVRsRkRWMjlTZUVNNGMxTldRR05qVVV0emVEbDJRbEpqUVZvNVFrczBSbGw1YmtFOVBRIiwiZXhwIjoxNjA5ODYzMDcwfQ.g2nfgH4aTz0yCEl839KOrNSIQZyd-5jI9RQrQQuMHMUiLWzwMr-sVvYVlbNHCWhldX8Xnsszj5WpGTjjOArKCQ",
+		"Referer": "http://giga.unitel.ao/",
+		"Accept-Encoding": "gzip, deflate",
+		"Accept-Language": "pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+	}	
+
+	headers_start = {
+		"Host": "giga.unitel.ao",
+		"Connection": "keep-alive",
+		"Content-Length": "7",
+		"Cache-Control": "no-cache",
+		"Pragma": "no-cache",
+		"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36",
+		"Content-Type": "application/json;charset=UTF-8",
+		"apikey": "547324fb-004c-40f4-b0bd-30d034b91a27",
+		"Accept": "application/json, text/plain, */*",
+		"txId": "4cd8e6f6-3cff-4057-835b-28d293638ada",
+		"If-Modified-Since": "Mon, 26 Jul 1997 05:00:00 GMT",
+		"device-Id": "a7dd1782-0e88-4a58-978f-aaa1aeeff0dd",
+		"token": "eyJhbGciOiJIUzUxMiJ9.eyJqc29uT2JqZWN0IjoiWmpNNE1tRTRNemN5WlRKak5UY3dNMkpsTlRFM1l6RTBaR1kwTUdJNU5qTXhaSGRLSzNCWlZHNUJWbkl4TWtkbWNtbDJUV1k0ZUdwbVp5dHRaWGRCY2pORGVESnBPRk5RWXpoWVNURjVPUzlNY2s4eVRsRkRWMjlTZUVNNGMxTldRR05qVVV0emVEbDJRbEpqUVZvNVFrczBSbGw1YmtFOVBRIiwiZXhwIjoxNjA5ODYzMDcwfQ.g2nfgH4aTz0yCEl839KOrNSIQZyd-5jI9RQrQQuMHMUiLWzwMr-sVvYVlbNHCWhldX8Xnsszj5WpGTjjOArKCQ",
+		"Origin": "http://giga.unitel.ao",
+		"Referer": "http://giga.unitel.ao/",
+		"Accept-Encoding": "gzip, deflate",
+		"Accept-Language": "pt-PT,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+	}
